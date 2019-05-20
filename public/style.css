@@ -599,15 +599,15 @@ input:-webkit-autofill:focus {
 /***
 *Testimonial-Page
 ***/
-
+/* ganti bg testi */
 .testimonial-area {
-    background: url('images/parallax-7.jpg') no-repeat scroll center center / cover;
+    background: url('images/bg-hp.jpg') no-repeat scroll center center / cover;
     position: relative;
     color: #ffffff;
 }
 
 .testimonial-area:before {
-    opacity: 0.9
+    opacity: 0.5
 }
 
 .testimonial {
@@ -617,7 +617,6 @@ input:-webkit-autofill:focus {
 .testimonial .testimonial-photo {
     margin-bottom: 20px;
     display: inline-block;
-    margin-right: 30px;
     border-radius: 50%;
     -webkit-box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);
     box-shadow: 5px 10px 30px -10px rgba(255, 255, 255, 0.5);

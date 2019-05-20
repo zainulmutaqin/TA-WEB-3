@@ -11,7 +11,7 @@ class Team extends Component {
                             <div className="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                                 <div className="page-title">
                                     <h2>Special team</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                                    <p>Although We are different side, but We always be one</p>
                                 </div>
                             </div>
                         </div>
@@ -103,8 +103,8 @@ class Team extends Component {
                         <div class="row">
                             <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                                 <div class="page-title">
-                                    <h2>Client says</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                                    <h2>About Us</h2>
+                                    <p>Sedikit tentang diri kami!</p>
                                 </div>
                             </div>
                         </div>
@@ -113,44 +113,37 @@ class Team extends Component {
                                 <div className="testimonials">
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/avatar-small-1.png" alt=""/>
+                                            <img src="images/zainul-ava.jpg" alt=""/>
                                         </div>
-                                        <h3>AR Rahman</h3>
+                                        <h3>Muhammad Zainul Mutaqin</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/avatar-small-2.png" alt=""/>
+                                            <img src="images/afi-ava.jpg" alt=""/>
                                         </div>
-                                        <h3>AR Rahman</h3>
+                                        <h3>Shafira Putri A</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/avatar-small-3.png" alt=""/>
+                                            <img src="images/andri-ava.jpg" alt=""/>
                                         </div>
-                                        <h3>AR Rahman</h3>
+                                        <h3>Andri Fritzent</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/avatar-small-4.png" alt=""/>
+                                            <img src="images/dianing-ava.jpg" alt=""/>
                                         </div>
-                                        <h3>AR Rahman</h3>
+                                        <h3>Dianing Putri S</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/avatar-small-5.png" alt=""/>
+                                            <img src="images/siska-ava.jpg" alt=""/>
                                         </div>
-                                        <h3>AR Rahman</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                                    </div>
-                                    <div className="testimonial">
-                                        <div className="testimonial-photo">
-                                            <img src="images/avatar-small-6.png" alt=""/>
-                                        </div>
-                                        <h3>AR Rahman</h3>
+                                        <h3>Siska Andriani</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                 </div>

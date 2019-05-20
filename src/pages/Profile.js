@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Features extends Component {
+class Profile extends Component {
     state = {  }
     render() { 
         return (
@@ -107,4 +107,4 @@ class Features extends Component {
     }
 }
  
-export default Features;
+export default Profile;
