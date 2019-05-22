@@ -45,11 +45,7 @@ class App extends Component {
         <div class="mainmenu-area" data-spy="affix" data-offset-top="100">
           <div class="container">
               <div class="navbar-header">
-                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-menu">
-                      <span class="icon-bar"></span>
-                      <span class="icon-bar"></span>
-                      <span class="icon-bar"></span>
-                  </button>
+                 
                   <a class="navbar-brand logo">
                       <h2>Websiteku</h2>
                   </a>
