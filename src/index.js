@@ -14,9 +14,6 @@ const pages = [
     {
       name : 'Team',
     },
-    {
-      name : 'Contact',
-    },
   ];
 
 ReactDOM.render(<App pages={pages}/>, document.getElementById('root'));

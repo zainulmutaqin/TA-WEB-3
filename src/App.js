@@ -33,10 +33,6 @@ class App extends Component {
       return (
         <Team/>
       );
-    } else if(name === 'Contact'){
-      return (
-        <Contact/>
-      );
     } else {
       //display default
       return (
