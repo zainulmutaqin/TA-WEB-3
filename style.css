@@ -601,7 +601,7 @@ input:-webkit-autofill:focus {
 ***/
 /* ganti bg testi */
 .testimonial-area {
-    background: url('images/bg-hp.webp') no-repeat scroll center center / cover;
+    background: url('images/bg-hp.webp ') no-repeat scroll center center / cover;
     position: relative;
     color: #ffffff;
 }
