@@ -4,7 +4,6 @@ import './App.css';
 import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Team from './pages/Team';
-import Contact from './pages/Contact';
 
 class App extends Component {
   constructor(props){
