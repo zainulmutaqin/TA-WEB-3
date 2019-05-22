@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TA-WEB-3/static/css/main.83bd8ac9.chunk.css",
-    "main.js": "/TA-WEB-3/static/js/main.c6e79fdf.chunk.js",
-    "main.js.map": "/TA-WEB-3/static/js/main.c6e79fdf.chunk.js.map",
+    "main.js": "/TA-WEB-3/static/js/main.b61a9dab.chunk.js",
+    "main.js.map": "/TA-WEB-3/static/js/main.b61a9dab.chunk.js.map",
     "runtime~main.js": "/TA-WEB-3/static/js/runtime~main.282a4eec.js",
     "runtime~main.js.map": "/TA-WEB-3/static/js/runtime~main.282a4eec.js.map",
-    "static/js/2.cba05053.chunk.js": "/TA-WEB-3/static/js/2.cba05053.chunk.js",
-    "static/js/2.cba05053.chunk.js.map": "/TA-WEB-3/static/js/2.cba05053.chunk.js.map",
+    "static/js/2.c39fed63.chunk.js": "/TA-WEB-3/static/js/2.c39fed63.chunk.js",
+    "static/js/2.c39fed63.chunk.js.map": "/TA-WEB-3/static/js/2.c39fed63.chunk.js.map",
     "index.html": "/TA-WEB-3/index.html",
-    "precache-manifest.c17538f5635c1648617823884aa5db6a.js": "/TA-WEB-3/precache-manifest.c17538f5635c1648617823884aa5db6a.js",
+    "precache-manifest.15f55bafd58004d8a163e15b4b69d7db.js": "/TA-WEB-3/precache-manifest.15f55bafd58004d8a163e15b4b69d7db.js",
     "service-worker.js": "/TA-WEB-3/service-worker.js",
     "static/css/main.83bd8ac9.chunk.css.map": "/TA-WEB-3/static/css/main.83bd8ac9.chunk.css.map"
   }
