@@ -16,91 +16,88 @@ class Profile extends Component {
                                 </div>
                             </div>
                         </div>
-                        <hr className="star-dark mb-5"/>
-                        <div className="row">
-                            <div className="col-md-6 col-lg-4 bottoom">
-                                <a className="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
-                                    <div className="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                                    <div className="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                                    <i className="fas fa-search-plus fa-3x"></i>
-                                    </div>
-                                    </div>
-                                    <img className="img-fluid" src="img/portfolio/cabin.png" alt="inicabin" aria-label="cabin"/>
-                                </a>
-                            </div>
-                            <div className="col-md-6 col-lg-4 bottoom">
-                                <a className="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
-                                    <div className="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                                    <div className="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                                    <i className="fas fa-search-plus fa-3x"></i>
-                                    </div>
-                                    </div>
-                                    <img className="img-fluid" src="img/portfolio/cake.png" alt="inicake" aria-label="cake"/>
-                                </a>
-                            </div>
-                            <div className="col-md-6 col-lg-4 bottoom">
-                                <a className="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
-                                    <div className="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                                    <div className="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                                    <i className="fas fa-search-plus fa-3x"></i>
-                                    </div>
-                                    </div>
-                                    <img className="img-fluid" src="img/portfolio/circus.png" alt="inicircus" aria-label="circus"/>
-                                </a>
-                            </div>
-                            <div className="col-md-6 col-lg-4 bottoom">
-                                <a className="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
-                                    <div className="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                                    <div className="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                                    <i className="fas fa-search-plus fa-3x"></i>
-                                    </div>
-                                    </div>
-                                    <img className="img-fluid" src="img/portfolio/circus.png" alt="inicircuss" aria-label="circuss"/>
-                                </a>                            
-                            </div>
-                            <div className="col-md-6 col-lg-4 bottoom">
-                                <a className="portfolio-item d-block mx-auto" href="#portfolio-modal-5">
-                                    <div className="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                                    <div className="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                                    <i className="fas fa-search-plus fa-3x"></i>
-                                    </div>
-                                    </div>
-                                    <img className="img-fluid" src="img/portfolio/cake.png" alt="inicakee" aria-label="cakee"/>
-                                </a>                            
-                            </div>
-                            <div className="col-md-6 col-lg-4 bottoom">
-                               <a className="portfolio-item d-block mx-auto" href="#portfolio-modal-6">
-                                    <div className="portfolio-item-caption d-flex position-absolute h-100 w-100">
-                                    <div className="portfolio-item-caption-content my-auto w-100 text-center text-white">
-                                    <i className="fas fa-search-plus fa-3x"></i>
-                                    </div>
-                                    </div>
-                                    <img className="img-fluid" src="img/portfolio/cabin.png" alt="cabinn" aria-label="cabinn"/>
-                                </a>
-                            </div>
+                    </div>
+                    <div>
+                        <div style={{textAlign:"center"}}>
+                            DATA DIRI SAYA
+                        </div>
+                        <div>
+                            <table>
+                                <tr> 
+                                    <td width="750" align="center"> Nama </td>
+                                    <td width="750"> Dianing Sukmapilia Putri Samsudin</td>
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> TTL </td>
+                                    <td width="750"> Jombang, 2 Desember 1998</td>
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> Alamat  </td>
+                                    <td width="750"> Perumahan Mojongapit C/5, Jombang, Jawa Timur</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">   </td>
+                                    <td width="750"> Kamar C4, Tectona House, Jl Wahid Hasyim No 26 E, Sleman, Yogyakarta</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> Alamat  </td>
+                                    <td width="750"> Perumahan Mojongapit C/5, Jombang, Jawa Timur</td>
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> Hobby  </td>
+                                    <td width="750"> Renang, Membaca, dan Bernyanyi </td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> Riwayat pendidikan  </td>
+                                    <td width="750"> TK Muslimat 3</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">  </td>
+                                    <td width="750"> SDN Jombang 2</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">  </td>
+                                    <td width="750"> SMPN 1 Jombang </td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">  </td>
+                                    <td width="750"> SMAN Mojoangung</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">  </td>
+                                    <td width="750"> D3 Komputer dan Sistem Informasi, Universitas Gadjah Mada</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">  </td>
+                                    <td width="750"> SDN Jombang 2</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> No Handphone </td>
+                                    <td width="750"> 081335174552</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center"> E-mail  </td>
+                                    <td width="750"> dianingsukmapilia@gmail.com</td>
+                                 
+                                </tr>
+                                <tr> 
+                                    <td width="750" align="center">  </td>
+                                    <td width="750"> SDN Jombang 2</td>
+                                 
+                                </tr>
+                            </table>
                         </div>
                     </div>
-                    <div className="portfolio-modal mfp-hide" id="portfolio-modal-1">
-    <div className="portfolio-modal-dialog bg-white">
-      <a className="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
-        <i className="fa fa-3x fa-times"></i>
-      </a>
-      <div className="container text-center">
-        <div className="row">
-          <div className="col-lg-8 mx-auto">
-            <h2 className="text-secondary text-uppercase mb-0">Project Name</h2>
-            <hr className="star-dark mb-5"/>
-            <img className="img-fluid mb-5" src="img/portfolio/cabin.png" alt="inicabinnn" aria-label="cabinnn"/>
-            <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-            <a className="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
-              <i className="fa fa-close"></i>
-              Close Project</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
                 </section>
             </React.Fragment>
          );
