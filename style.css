@@ -31,7 +31,7 @@ CSS INDEX
 1. Google font
 ------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+/*@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');*/
 
 /*-------------------
 2. Theme Default CSS
@@ -75,7 +75,7 @@ body {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'themify', sans-serif;
     font-weight: 400;
     font-size: 15px;
     line-height: 1.8;
