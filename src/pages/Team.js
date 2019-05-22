@@ -19,7 +19,7 @@ class Team extends Component {
                             <div className="col-xs-12 col-sm-6 col-md-3">
                                 <div className="single-team">
                                     <div className="team-photo">
-                                        <img src="images/zainul.jpg" alt=""/>
+                                        <img src="images/zainul.webp" alt=""/>
                                     </div>
                                     <h4>Zainul Mutaqin</h4>
                                     <h6>Co. Founder</h6>
@@ -34,7 +34,7 @@ class Team extends Component {
                             <div className="col-xs-12 col-sm-6 col-md-3">
                                 <div className="single-team">
                                     <div className="team-photo">
-                                        <img src="images/afi.jpg" alt=""/>
+                                        <img src="images/afi.webp" alt=""/>
                                     </div>
                                     <h4>Shafira Putri</h4>
                                     <h6>Founder</h6>
@@ -49,7 +49,7 @@ class Team extends Component {
                             <div className="col-xs-12 col-sm-6 col-md-3">
                                 <div className="single-team">
                                     <div className="team-photo">
-                                        <img src="images/andri.jpeg" alt=""/>
+                                        <img src="images/andri.webp" alt=""/>
                                     </div>
                                     <h4>Andri Fritzent</h4>
                                     <h6>Editor</h6>
@@ -67,7 +67,7 @@ class Team extends Component {
                             <div className="col-xs-12 col-sm-6 col-md-3">
                                 <div className="single-team">
                                     <div className="team-photo">
-                                        <img src="images/dianing.jpeg" alt=""/>
+                                        <img src="images/dianing.webp" alt=""/>
                                     </div>
                                     <h4>Dianing</h4>
                                     <h6>Editor</h6>
@@ -82,7 +82,7 @@ class Team extends Component {
                             <div className="col-xs-12 col-sm-6 col-md-3">
                                 <div className="single-team">
                                     <div className="team-photo">
-                                        <img src="images/siska.jpeg" alt=""/>
+                                        <img src="images/siska.webp" alt=""/>
                                     </div>
                                     <h4>Siska Tarigan</h4>
                                     <h6>Founder</h6>
@@ -113,35 +113,35 @@ class Team extends Component {
                                 <div className="testimonials">
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/zainul-ava.jpg" alt=""/>
+                                            <img src="images/zainul-ava.webp" alt=""/>
                                         </div>
                                         <h3>Muhammad Zainul Mutaqin</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/afi-ava.jpg" alt=""/>
+                                            <img src="images/afi-ava.webp" alt=""/>
                                         </div>
                                         <h3>Shafira Putri A</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/andri-ava.jpg" alt=""/>
+                                            <img src="images/andri-ava.webp" alt=""/>
                                         </div>
                                         <h3>Andri Fritzent</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/dianing-ava.jpg" alt=""/>
+                                            <img src="images/dianing-ava.webp" alt=""/>
                                         </div>
                                         <h3>Dianing Putri S</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
-                                            <img src="images/siska-ava.jpg" alt=""/>
+                                            <img src="images/siska-ava.webp" alt=""/>
                                         </div>
                                         <h3>Siska Andriani</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
