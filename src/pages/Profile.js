@@ -10,7 +10,7 @@ class Profile extends Component {
                         <div className="row">
                             <div className="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                                 <div className="page-title">
-                                    <img className="img-fluid mb-5 d-block mx-auto" src="images/dianing.jpeg" width="240" height="320" />
+                                    <img className="img-fluid mb-5 d-block mx-auto" src="images/dianing.jpeg" width="240" height="320" alt="inidianq" aria-label="dianq"/>
                                     <h1 className="text-uppercase mb-0">Dianing Sukmapilia</h1>
                                     <h5 className="font-weight-light mb-0">Cewek yang selalu senyum dan bahagia</h5>                   
                                 </div>
@@ -25,7 +25,7 @@ class Profile extends Component {
                                     <i className="fas fa-search-plus fa-3x"></i>
                                     </div>
                                     </div>
-                                    <img className="img-fluid" src="img/portfolio/cabin.png" alt=""/>
+                                    <img className="img-fluid" src="img/portfolio/cabin.png" alt="inicabin" aria-label="cabin"/>
                                 </a>
                             </div>
                             <div className="col-md-6 col-lg-4 bottoom">
@@ -35,7 +35,7 @@ class Profile extends Component {
                                     <i className="fas fa-search-plus fa-3x"></i>
                                     </div>
                                     </div>
-                                    <img className="img-fluid" src="img/portfolio/cake.png" alt=""/>
+                                    <img className="img-fluid" src="img/portfolio/cake.png" alt="inicake" aria-label="cake"/>
                                 </a>
                             </div>
                             <div className="col-md-6 col-lg-4 bottoom">
@@ -45,7 +45,7 @@ class Profile extends Component {
                                     <i className="fas fa-search-plus fa-3x"></i>
                                     </div>
                                     </div>
-                                    <img className="img-fluid" src="img/portfolio/circus.png" alt=""/>
+                                    <img className="img-fluid" src="img/portfolio/circus.png" alt="inicircus" aria-label="circus"/>
                                 </a>
                             </div>
                             <div className="col-md-6 col-lg-4 bottoom">
@@ -55,7 +55,7 @@ class Profile extends Component {
                                     <i className="fas fa-search-plus fa-3x"></i>
                                     </div>
                                     </div>
-                                    <img className="img-fluid" src="img/portfolio/circus.png" alt=""/>
+                                    <img className="img-fluid" src="img/portfolio/circus.png" alt="inicircuss" aria-label="circuss"/>
                                 </a>                            
                             </div>
                             <div className="col-md-6 col-lg-4 bottoom">
@@ -65,7 +65,7 @@ class Profile extends Component {
                                     <i className="fas fa-search-plus fa-3x"></i>
                                     </div>
                                     </div>
-                                    <img className="img-fluid" src="img/portfolio/cake.png" alt=""/>
+                                    <img className="img-fluid" src="img/portfolio/cake.png" alt="inicakee" aria-label="cakee"/>
                                 </a>                            
                             </div>
                             <div className="col-md-6 col-lg-4 bottoom">
@@ -75,7 +75,7 @@ class Profile extends Component {
                                     <i className="fas fa-search-plus fa-3x"></i>
                                     </div>
                                     </div>
-                                    <img className="img-fluid" src="img/portfolio/cabin.png" alt=""/>
+                                    <img className="img-fluid" src="img/portfolio/cabin.png" alt="cabinn" aria-label="cabinn"/>
                                 </a>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ class Profile extends Component {
           <div className="col-lg-8 mx-auto">
             <h2 className="text-secondary text-uppercase mb-0">Project Name</h2>
             <hr className="star-dark mb-5"/>
-            <img className="img-fluid mb-5" src="img/portfolio/cabin.png" alt=""/>
+            <img className="img-fluid mb-5" src="img/portfolio/cabin.png" alt="inicabinnn" aria-label="cabinnn"/>
             <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
             <a className="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
               <i className="fa fa-close"></i>
