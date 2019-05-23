@@ -116,35 +116,35 @@ class Team extends Component {
                                             <img src="images/zainul-ava.webp" alt="inizainava" aria-label="zainava"/>
                                         </div>
                                         <h3>Muhammad Zainul Mutaqin</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                                        <p>Halo, panggil aku Zainul. Hanyalah seorang manusia biasa sangat simple dan menyukai ketenangan.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
                                             <img src="images/afi-ava.webp" alt="iniafiava" aria-label="afiava"/>
                                         </div>
                                         <h3>Shafira Putri A</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                                        <p>Halo, perkenalkan aku Afi. Sering dibilang manusia paling santai dan ga peduli.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
                                             <img src="images/andri-ava.webp" alt="inidriava" aria-label="driava"/>
                                         </div>
                                         <h3>Andri Fritzent</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                                        <p>Hai guys, kenalin aku Andre. Lebih suka ngerap dan hanya akulah yang disini.</p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
                                             <img src="images/dianing-ava.webp" alt="inidianava" aria-label="dianava"/>
                                         </div>
                                         <h3>Dianing Putri S</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                                        <p>Halo temen - temen, kenalin aku Puput. Saya orang yang rajin dan aktif mengikuti banyak hal </p>
                                     </div>
                                     <div className="testimonial">
                                         <div className="testimonial-photo">
                                             <img src="images/siska-ava.webp" alt="inisisava" aria-label="sisava"/>
                                         </div>
                                         <h3>Siska Andriani</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
+                                        <p>Hai sis, kenalin aku Siska. Santai aja sama aku, karena aku sama siapa aja langsung connect! </p>
                                     </div>
                                 </div>
                             </div>
